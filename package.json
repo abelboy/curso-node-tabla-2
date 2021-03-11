@@ -1,0 +1,19 @@
+{
+    "name": "03-2-base-node-",
+    "version": "0.0.1",
+    "description": "Crear tablar de multiplicar con txt",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "base9": "node app --base=9"
+    },
+    "author": "Abel Gonzalez Orta",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
